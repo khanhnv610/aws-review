@@ -41,4 +41,9 @@ https://aws.amazon.com/articles/web-identity-federation-with-mobile-applications
 
 https://docs.aws.amazon.com/cognito/latest/developerguide/cognito-getting-started.html
 
-# Elastic load balance
+# Elastic load balance, auto sclaling group
+
+
+
+# SQS,SNS
+- học lại toàn bộ
