@@ -43,7 +43,8 @@ https://docs.aws.amazon.com/cognito/latest/developerguide/cognito-getting-starte
 
 # Elastic load balance, auto sclaling group
 
-
-
 # SQS,SNS
+
 - học lại toàn bộ
+
+# Appsteam, aws config
